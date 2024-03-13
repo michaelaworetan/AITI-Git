@@ -3,3 +3,5 @@ Add a new line
 Add a new Feature
 
 Added another line
+
+Add another line
